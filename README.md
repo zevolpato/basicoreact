@@ -1,3 +1,0 @@
-# basicoreact
-
-Comandos básicos react.
